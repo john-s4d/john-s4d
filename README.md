@@ -4,7 +4,7 @@ I specialize in complex problem solving, support escalations and root-cause anal
 leading the technical response when production problems are hardest to resolve.
 
 I have more than twenty years in enterprise software and telecommunications, including twelve
-at Salesforce, where I rose from Tier 3 engineer to Senior Success Architect.
+at Salesforce, where I progressed from Tier 3 engineer to Senior Success Architect.
 
 - Credited analyst, [CVE-2025-27611](https://github.com/advisories/GHSA-xq7p-g2vc-g82p) (CVSS 8.7)
 - Resume: [ikailo.com/john](https://ikailo.com/john/)
