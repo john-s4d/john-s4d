@@ -13,7 +13,7 @@ at Salesforce, where I progressed from Tier 3 engineer to Senior Success Archite
 
 Outside work I publish open-source research through [Ikailo](https://ikailo.com):
 [Entroptics](https://github.com/Agience/entroptics), signal analysis that reads structure from the
-data itself, applied to language-model context, model weights, radio and astronomy.
+data itself, applied to language-model context, model weights, inference, radio and astronomy.
 
 | Paper | DOI |
 |---|---|
@@ -21,6 +21,7 @@ data itself, applied to language-model context, model weights, radio and astrono
 | Selection for language-model context, read from the data | [10.5281/zenodo.22313961](https://doi.org/10.5281/zenodo.22313961) |
 | The identity component of a Jacobian lens inflates the noise floor computed from it | [10.5281/zenodo.22293929](https://doi.org/10.5281/zenodo.22293929) |
 | Reading positivity from the weights alone | [10.5281/zenodo.22803898](https://doi.org/10.5281/zenodo.22803898) |
+| Inference without trained weights | [10.5281/zenodo.24143174](https://doi.org/10.5281/zenodo.24143174) |
 | Entroptics-RF: a parameter-free physical layer on a keyed optical aperture | [10.5281/zenodo.24068189](https://doi.org/10.5281/zenodo.24068189) |
 | Entroptics-Mesh: a reply-free radio mesh over a keyed-aperture physical layer | [10.5281/zenodo.24068201](https://doi.org/10.5281/zenodo.24068201) |
 | An untuned rank-selection and reconstruction procedure recovers CHIME/FRB burst morphology | [10.5281/zenodo.24068209](https://doi.org/10.5281/zenodo.24068209) |
